@@ -12,4 +12,8 @@
 4. Run the next command to install artillery:
 
     `npm install`
+    
+5. Run the next command to run the project:
+
+    `npm run test`    
  
